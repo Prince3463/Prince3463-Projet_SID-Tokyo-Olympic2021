@@ -1,0 +1,744 @@
+country,committee,event,id_disc
+Belgium,Belgium,Men,disc024
+China,People's Republic of China,Men,disc024
+China,People's Republic of China,Women,disc024
+France,France,Women,disc024
+Italy,Italy,Women,disc024
+Japan,Japan,Men,disc024
+Japan,Japan,Women,disc024
+Latvia,Latvia,Men,disc024
+Mongolia,Mongolia,Women,disc024
+Netherlands,Netherlands,Men,disc024
+Poland,Poland,Men,disc024
+ROC,ROC,Men,disc024
+ROC,ROC,Women,disc024
+Romania,Romania,Women,disc024
+Serbia,Serbia,Men,disc024
+United States,United States of America,Women,disc024
+Australia,Australia,Men's Team,disc03
+Australia,Australia,Mixed Team,disc03
+Bangladesh,Bangladesh,Mixed Team,disc03
+Belarus,Belarus,Women's Team,disc03
+Brazil,Brazil,Mixed Team,disc03
+Canada,Canada,Mixed Team,disc03
+China,People's Republic of China,Men's Team,disc03
+China,People's Republic of China,Mixed Team,disc03
+China,People's Republic of China,Women's Team,disc03
+Chinese Taipei,Chinese Taipei,Men's Team,disc03
+Chinese Taipei,Chinese Taipei,Mixed Team,disc03
+Chinese Taipei,Chinese Taipei,Women's Team,disc03
+Colombia,Colombia,Mixed Team,disc03
+Egypt,Egypt,Mixed Team,disc03
+France,France,Men's Team,disc03
+France,France,Mixed Team,disc03
+Germany,Germany,Mixed Team,disc03
+Germany,Germany,Women's Team,disc03
+Great Britain,Great Britain,Men's Team,disc03
+Great Britain,Great Britain,Mixed Team,disc03
+Great Britain,Great Britain,Women's Team,disc03
+India,India,Men's Team,disc03
+India,India,Mixed Team,disc03
+Indonesia,Indonesia,Men's Team,disc03
+Indonesia,Indonesia,Mixed Team,disc03
+Italy,Italy,Mixed Team,disc03
+Italy,Italy,Women's Team,disc03
+Japan,Japan,Men's Team,disc03
+Japan,Japan,Mixed Team,disc03
+Japan,Japan,Women's Team,disc03
+Kazakhstan,Kazakhstan,Men's Team,disc03
+Malaysia,Malaysia,Mixed Team,disc03
+Mexico,Mexico,Mixed Team,disc03
+Mexico,Mexico,Women's Team,disc03
+Mongolia,Mongolia,Mixed Team,disc03
+Netherlands,Netherlands,Men's Team,disc03
+Netherlands,Netherlands,Mixed Team,disc03
+Poland,Poland,Mixed Team,disc03
+Rep. of Moldova,Republic of Moldova,Mixed Team,disc03
+Republic of Korea,Republic of Korea,Men's Team,disc03
+Republic of Korea,Republic of Korea,Mixed Team,disc03
+Republic of Korea,Republic of Korea,Women's Team,disc03
+ROC,ROC,Mixed Team,disc03
+ROC,ROC,Women's Team,disc03
+Spain,Spain,Mixed Team,disc03
+Tunisia,Tunisia,Mixed Team,disc03
+Turkey,Turkey,Mixed Team,disc03
+Ukraine,Ukraine,Mixed Team,disc03
+Ukraine,Ukraine,Women's Team,disc03
+United States,United States of America,Men's Team,disc03
+United States,United States of America,Mixed Team,disc03
+United States,United States of America,Women's Team,disc03
+Vietnam,Vietnam,Mixed Team,disc03
+Belgium,Belgium,Women's Team,disc045
+Brazil,Brazil,Men's Team,disc045
+Canada,Canada,Women's Team,disc045
+China,People's Republic of China,Men's Team,disc045
+China,People's Republic of China,Women's Team,disc045
+Chinese Taipei,Chinese Taipei,Men's Team,disc045
+France,France,Women's Team,disc045
+Germany,Germany,Men's Team,disc045
+Germany,Germany,Women's Team,disc045
+Great Britain,Great Britain,Men's Team,disc045
+Great Britain,Great Britain,Women's Team,disc045
+Italy,Italy,Women's Team,disc045
+Japan,Japan,Men's Team,disc045
+Japan,Japan,Women's Team,disc045
+Netherlands,Netherlands,Women's Team,disc045
+Korea,Republic of Korea,Men's Team,disc045
+ROC,ROC,Men's Team,disc045
+ROC,ROC,Women's Team,disc045
+Spain,Spain,Men's Team,disc045
+Spain,Spain,Women's Team,disc045
+Switzerland,Switzerland,Men's Team,disc045
+Ukraine,Ukraine,Men's Team,disc045
+United States,United States of America,Men's Team,disc045
+United States,United States of America,Women's Team,disc045
+Australia,Australia,Duet,disc05
+Australia,Australia,Team,disc05
+Austria,Austria,Duet,disc05
+Belarus,Belarus,Duet,disc05
+Canada,Canada,Duet,disc05
+Canada,Canada,Team,disc05
+China,People's Republic of China,Duet,disc05
+China,People's Republic of China,Team,disc05
+Colombia,Colombia,Duet,disc05
+Egypt,Egypt,Duet,disc05
+Egypt,Egypt,Team,disc05
+France,France,Duet,disc05
+Great Britain,Great Britain,Duet,disc05
+Greece,Greece,Duet,disc05
+Greece,Greece,Team,disc05
+Israel,Israel,Duet,disc05
+Italy,Italy,Duet,disc05
+Italy,Italy,Team,disc05
+Japan,Japan,Duet,disc05
+Japan,Japan,Team,disc05
+Kazakhstan,Kazakhstan,Duet,disc05
+Liechtenstein,Liechtenstein,Duet,disc05
+Mexico,Mexico,Duet,disc05
+Netherlands,Netherlands,Duet,disc05
+ROC,ROC,Duet,disc05
+ROC,ROC,Team,disc05
+South Africa,South Africa,Duet,disc05
+Spain,Spain,Duet,disc05
+Spain,Spain,Team,disc05
+Ukraine,Ukraine,Duet,disc05
+Ukraine,Ukraine,Team,disc05
+United States,United States of America,Duet,disc05
+Australia,Australia,Women's 4 x 400m Relay,disc043
+Bahamas,Bahamas,Women's 4 x 400m Relay,disc043
+Belarus,Belarus,Women's 4 x 400m Relay,disc043
+Belgium,Belgium,4 x 400m Relay Mixed,disc043
+Belgium,Belgium,Men's 4 x 400m Relay,disc043
+Belgium,Belgium,Women's 4 x 400m Relay,disc043
+Botswana,Botswana,Men's 4 x 400m Relay,disc043
+Brazil,Brazil,4 x 400m Relay Mixed,disc043
+Brazil,Brazil,Men's 4 x 100m Relay,disc043
+Brazil,Brazil,Women's 4 x 100m Relay,disc043
+Canada,Canada,Men's 4 x 100m Relay,disc043
+Canada,Canada,Women's 4 x 400m Relay,disc043
+China,People's Republic of China,Men's 4 x 100m Relay,disc043
+China,People's Republic of China,Women's 4 x 100m Relay,disc043
+Colombia,Colombia,Men's 4 x 400m Relay,disc043
+Cuba,Cuba,Women's 4 x 400m Relay,disc043
+Czech Republic,Czech Republic,Men's 4 x 400m Relay,disc043
+Denmark,Denmark,Men's 4 x 100m Relay,disc043
+Denmark,Denmark,Women's 4 x 100m Relay,disc043
+Dominican Rep.,Dominican Republic,4 x 400m Relay Mixed,disc043
+Ecuador,Ecuador,Women's 4 x 100m Relay,disc043
+France,France,Men's 4 x 100m Relay,disc043
+France,France,Men's 4 x 400m Relay,disc043
+France,France,Women's 4 x 100m Relay,disc043
+France,France,Women's 4 x 400m Relay,disc043
+Germany,Germany,4 x 400m Relay Mixed,disc043
+Germany,Germany,Men's 4 x 100m Relay,disc043
+Germany,Germany,Men's 4 x 400m Relay,disc043
+Germany,Germany,Women's 4 x 100m Relay,disc043
+Germany,Germany,Women's 4 x 400m Relay,disc043
+Ghana,Ghana,Men's 4 x 100m Relay,disc043
+Great Britain,Great Britain,4 x 400m Relay Mixed,disc043
+Great Britain,Great Britain,Men's 4 x 100m Relay,disc043
+Great Britain,Great Britain,Men's 4 x 400m Relay,disc043
+Great Britain,Great Britain,Women's 4 x 100m Relay,disc043
+Great Britain,Great Britain,Women's 4 x 400m Relay,disc043
+India,India,4 x 400m Relay Mixed,disc043
+India,India,Men's 4 x 400m Relay,disc043
+Ireland,Ireland,4 x 400m Relay Mixed,disc043
+Italy,Italy,4 x 400m Relay Mixed,disc043
+Italy,Italy,Men's 4 x 100m Relay,disc043
+Italy,Italy,Men's 4 x 400m Relay,disc043
+Italy,Italy,Women's 4 x 100m Relay,disc043
+Italy,Italy,Women's 4 x 400m Relay,disc043
+Jamaica,Jamaica,4 x 400m Relay Mixed,disc043
+Jamaica,Jamaica,Men's 4 x 100m Relay,disc043
+Jamaica,Jamaica,Men's 4 x 400m Relay,disc043
+Jamaica,Jamaica,Women's 4 x 100m Relay,disc043
+Jamaica,Jamaica,Women's 4 x 400m Relay,disc043
+Japan,Japan,Men's 4 x 100m Relay,disc043
+Japan,Japan,Men's 4 x 400m Relay,disc043
+Japan,Japan,Women's 4 x 100m Relay,disc043
+Netherlands,Netherlands,4 x 400m Relay Mixed,disc043
+Netherlands,Netherlands,Men's 4 x 100m Relay,disc043
+Netherlands,Netherlands,Men's 4 x 400m Relay,disc043
+Netherlands,Netherlands,Women's 4 x 100m Relay,disc043
+Netherlands,Netherlands,Women's 4 x 400m Relay,disc043
+Nigeria,Nigeria,4 x 400m Relay Mixed,disc043
+Nigeria,Nigeria,Women's 4 x 100m Relay,disc043
+Poland,Poland,4 x 400m Relay Mixed,disc043
+Poland,Poland,Men's 4 x 400m Relay,disc043
+Poland,Poland,Women's 4 x 100m Relay,disc043
+Poland,Poland,Women's 4 x 400m Relay,disc043
+South Africa,South Africa,Men's 4 x 100m Relay,disc043
+South Africa,South Africa,Men's 4 x 400m Relay,disc043
+Spain,Spain,4 x 400m Relay Mixed,disc043
+Switzerland,Switzerland,Women's 4 x 100m Relay,disc043
+Switzerland,Switzerland,Women's 4 x 400m Relay,disc043
+Trinidad & Tobago,Trinidad and Tobago,Men's 4 x 100m Relay,disc043
+Trinidad & Tobago,Trinidad and Tobago,Men's 4 x 400m Relay,disc043
+Trinidad & Tobago,Trinidad and Tobago,Women's 4 x 100m Relay,disc043
+Turkey,Turkey,Men's 4 x 100m Relay,disc043
+Ukraine,Ukraine,4 x 400m Relay Mixed,disc043
+Ukraine,Ukraine,Women's 4 x 400m Relay,disc043
+United States,United States of America,4 x 400m Relay Mixed,disc043
+United States,United States of America,Men's 4 x 100m Relay,disc043
+United States,United States of America,Men's 4 x 400m Relay,disc043
+United States,United States of America,Women's 4 x 100m Relay,disc043
+United States,United States of America,Women's 4 x 400m Relay,disc043
+Australia,Australia,Softball,disc026
+Canada,Canada,Softball,disc026
+Dominican Rep.,Dominican Republic,Baseball,disc026
+Israel,Israel,Baseball,disc026
+Italy,Italy,Softball,disc026
+Japan,Japan,Baseball,disc026
+Japan,Japan,Softball,disc026
+Mexico,Mexico,Baseball,disc026
+Mexico,Mexico,Softball,disc026
+Republic of Korea,Republic of Korea,Baseball,disc026
+United States,United States of America,Baseball,disc026
+United States,United States of America,Softball,disc026
+Argentina,Argentina,Men,disc018
+Australia,Australia,Men,disc018
+Australia,Australia,Women,disc018
+Belgium,Belgium,Women,disc018
+Canada,Canada,Women,disc018
+China,People's Republic of China,Women,disc018
+Czech Republic,Czech Republic,Men,disc018
+France,France,Men,disc018
+France,France,Women,disc018
+Germany,Germany,Men,disc018
+Islamic Rep. of Iran,Islamic Republic of Iran,Men,disc018
+Italy,Italy,Men,disc018
+Japan,Japan,Men,disc018
+Japan,Japan,Women,disc018
+Nigeria,Nigeria,Men,disc018
+Nigeria,Nigeria,Women,disc018
+Puerto Rico,Puerto Rico,Women,disc018
+Republic of Korea,Republic of Korea,Women,disc018
+Serbia,Serbia,Women,disc018
+Slovenia,Slovenia,Men,disc018
+Spain,Spain,Men,disc018
+Spain,Spain,Women,disc018
+United States,United States of America,Men,disc018
+United States,United States of America,Women,disc018
+Azaad/Capogrosso,Argentina,Men,disc039
+Gallay/Pereyra,Argentina,Women,disc039
+McHugh/Schumann,Australia,Men,disc039
+Artacho Del Solar/Clancy,Australia,Women,disc039
+Alison/Alvaro Filho,Brazil,Men,disc039
+Evandro/Bruno Schmidt,Brazil,Men,disc039
+Ana Patricia/Rebecca,Brazil,Women,disc039
+Agatha/Duda,Brazil,Women,disc039
+Bansley/Brandie,Canada,Women,disc039
+Pavan/Melissa,Canada,Women,disc039
+Grimalt M./Grimalt E.,Chile,Men,disc039
+Wang/X.Y.Xia,People's Republic of China,Women,disc039
+Xue/Wang X.X.,People's Republic of China,Women,disc039
+Lidy/Leila,Cuba,Women,disc039
+Perusic/Schweiner,Czech Republic,Men,disc039
+Hermannova/Slukova,Czech Republic,Women,disc039
+Thole J./Wickler,Germany,Men,disc039
+Ludwig/Kozuch,Germany,Women,disc039
+Sude/Borger,Germany,Women,disc039
+Nicolai/Lupo,Italy,Men,disc039
+Carambula/Rossi,Italy,Men,disc039
+Menegatti/Orsi Toth,Italy,Women,disc039
+Gottsu/Shiratori,Japan,Men,disc039
+Ishii/Murakami,Japan,Women,disc039
+Makokha/Khadambi,Kenya,Women,disc039
+Plavins/Tocs,Latvia,Men,disc039
+Graudina/Kravcenoka,Latvia,Women,disc039
+Gaxiola/Rubio,Mexico,Men,disc039
+Abicha/Elgraoui,Morocco,Men,disc039
+Brouwer/Meeuwsen,Netherlands,Men,disc039
+Keizer/Meppelink,Netherlands,Women,disc039
+Stam/Schoon,Netherlands,Women,disc039
+Mol A./Sorum C.,Norway,Men,disc039
+Bryl/Fijalek,Poland,Men,disc039
+Kantor/Losiak,Poland,Men,disc039
+Cherif/Ahmed,Qatar,Men,disc039
+Krasilnikov/Stoyanovskiy,ROC,Men,disc039
+Leshukov/Semenov,ROC,Men,disc039
+Makroguzova/Kholomina,ROC,Women,disc039
+Herrera/Gavira,Spain,Men,disc039
+Liliana/Elsa,Spain,Women,disc039
+Heidrich/Gerson,Switzerland,Men,disc039
+Huberli/Betschart,Switzerland,Women,disc039
+"Verge-Depre, A./Heidrich",Switzerland,Women,disc039
+Gibb/Bourne,United States of America,Men,disc039
+Lucena/Dalhausser,United States of America,Men,disc039
+April/Alix,United States of America,Women,disc039
+Claes/Sponcil,United States of America,Women,disc039
+Australia,Australia,Men's Madison,disc037
+Australia,Australia,Men's Team Pursuit,disc037
+Australia,Australia,Men's Team Sprint,disc037
+Australia,Australia,Women's Madison,disc037
+Australia,Australia,Women's Team Pursuit,disc037
+Austria,Austria,Men's Madison,disc037
+Belgium,Belgium,Men's Madison,disc037
+Belgium,Belgium,Women's Madison,disc037
+Canada,Canada,Men's Madison,disc037
+Canada,Canada,Men's Team Pursuit,disc037
+Canada,Canada,Women's Madison,disc037
+Canada,Canada,Women's Team Pursuit,disc037
+China,People's Republic of China,Women's Team Sprint,disc037
+Denmark,Denmark,Men's Madison,disc037
+Denmark,Denmark,Men's Team Pursuit,disc037
+Denmark,Denmark,Women's Madison,disc037
+France,France,Men's Madison,disc037
+France,France,Men's Team Sprint,disc037
+France,France,Women's Madison,disc037
+France,France,Women's Team Pursuit,disc037
+Germany,Germany,Men's Madison,disc037
+Germany,Germany,Men's Team Pursuit,disc037
+Germany,Germany,Men's Team Sprint,disc037
+Germany,Germany,Women's Madison,disc037
+Germany,Germany,Women's Team Pursuit,disc037
+Germany,Germany,Women's Team Sprint,disc037
+Great Britain,Great Britain,Men's Madison,disc037
+Great Britain,Great Britain,Men's Team Pursuit,disc037
+Great Britain,Great Britain,Men's Team Sprint,disc037
+Great Britain,Great Britain,Women's Madison,disc037
+Great Britain,Great Britain,Women's Team Pursuit,disc037
+"Hong Kong, China","Hong Kong, China",Women's Madison,disc037
+Ireland,Ireland,Men's Madison,disc037
+Ireland,Ireland,Women's Madison,disc037
+Italy,Italy,Men's Madison,disc037
+Italy,Italy,Men's Team Pursuit,disc037
+Italy,Italy,Women's Madison,disc037
+Italy,Italy,Women's Team Pursuit,disc037
+Japan,Japan,Women's Madison,disc037
+Lithuania,Lithuania,Women's Team Sprint,disc037
+Mexico,Mexico,Women's Team Sprint,disc037
+Netherlands,Netherlands,Men's Madison,disc037
+Netherlands,Netherlands,Men's Team Sprint,disc037
+Netherlands,Netherlands,Women's Madison,disc037
+Netherlands,Netherlands,Women's Team Sprint,disc037
+New Zealand,New Zealand,Men's Madison,disc037
+New Zealand,New Zealand,Men's Team Pursuit,disc037
+New Zealand,New Zealand,Men's Team Sprint,disc037
+New Zealand,New Zealand,Women's Madison,disc037
+New Zealand,New Zealand,Women's Team Pursuit,disc037
+Poland,Poland,Men's Madison,disc037
+Poland,Poland,Men's Team Sprint,disc037
+Poland,Poland,Women's Madison,disc037
+Poland,Poland,Women's Team Sprint,disc037
+ROC,ROC,Men's Team Sprint,disc037
+ROC,ROC,Women's Madison,disc037
+ROC,ROC,Women's Team Sprint,disc037
+Spain,Spain,Men's Madison,disc037
+Switzerland,Switzerland,Men's Madison,disc037
+Switzerland,Switzerland,Men's Team Pursuit,disc037
+Ukraine,Ukraine,Women's Team Sprint,disc037
+United States,United States of America,Men's Madison,disc037
+United States,United States of America,Women's Madison,disc037
+United States,United States of America,Women's Team Pursuit,disc037
+Canada,Canada,Men's Foil Team,disc09
+Canada,Canada,Women's Foil Team,disc09
+China,People's Republic of China,Men's Épée Team,disc09
+China,People's Republic of China,Women's Épée Team,disc09
+China,People's Republic of China,Women's Sabre Team,disc09
+Egypt,Egypt,Men's Foil Team,disc09
+Egypt,Egypt,Men's Sabre Team,disc09
+Egypt,Egypt,Women's Foil Team,disc09
+Estonia,Estonia,Women's Épée Team,disc09
+France,France,Men's Épée Team,disc09
+France,France,Men's Foil Team,disc09
+France,France,Women's Foil Team,disc09
+France,France,Women's Sabre Team,disc09
+Germany,Germany,Men's Foil Team,disc09
+Germany,Germany,Men's Sabre Team,disc09
+"Hong Kong, China","Hong Kong, China",Men's Foil Team,disc09
+"Hong Kong, China","Hong Kong, China",Women's Épée Team,disc09
+Hungary,Hungary,Men's Sabre Team,disc09
+Hungary,Hungary,Women's Foil Team,disc09
+Hungary,Hungary,Women's Sabre Team,disc09
+Islamic Rep. of Iran,Islamic Republic of Iran,Men's Sabre Team,disc09
+Italy,Italy,Men's Épée Team,disc09
+Italy,Italy,Men's Foil Team,disc09
+Italy,Italy,Men's Sabre Team,disc09
+Italy,Italy,Women's Épée Team,disc09
+Italy,Italy,Women's Foil Team,disc09
+Italy,Italy,Women's Sabre Team,disc09
+Japan,Japan,Men's Épée Team,disc09
+Japan,Japan,Men's Foil Team,disc09
+Japan,Japan,Men's Sabre Team,disc09
+Japan,Japan,Women's Foil Team,disc09
+Japan,Japan,Women's Sabre Team,disc09
+Poland,Poland,Women's Épée Team,disc09
+Republic of Korea,Republic of Korea,Men's Épée Team,disc09
+Republic of Korea,Republic of Korea,Men's Sabre Team,disc09
+Republic of Korea,Republic of Korea,Women's Épée Team,disc09
+Republic of Korea,Republic of Korea,Women's Sabre Team,disc09
+ROC,ROC,Men's Épée Team,disc09
+ROC,ROC,Men's Foil Team,disc09
+ROC,ROC,Men's Sabre Team,disc09
+ROC,ROC,Women's Épée Team,disc09
+ROC,ROC,Women's Foil Team,disc09
+ROC,ROC,Women's Sabre Team,disc09
+Switzerland,Switzerland,Men's Épée Team,disc09
+Tunisia,Tunisia,Women's Sabre Team,disc09
+Ukraine,Ukraine,Men's Épée Team,disc09
+United States,United States of America,Men's Épée Team,disc09
+United States,United States of America,Men's Foil Team,disc09
+United States,United States of America,Men's Sabre Team,disc09
+United States,United States of America,Women's Épée Team,disc09
+United States,United States of America,Women's Foil Team,disc09
+United States,United States of America,Women's Sabre Team,disc09
+Argentina,Argentina,Men,disc07
+Australia,Australia,Men,disc07
+Australia,Australia,Women,disc07
+Brazil,Brazil,Men,disc07
+Brazil,Brazil,Women,disc07
+Canada,Canada,Women,disc07
+Chile,Chile,Women,disc07
+China,People's Republic of China,Women,disc07
+Côte d’Ivoire,Côte d'Ivoire,Men,disc07
+Egypt,Egypt,Men,disc07
+France,France,Men,disc07
+Germany,Germany,Men,disc07
+Great Britain,Great Britain,Women,disc07
+Honduras,Honduras,Men,disc07
+Japan,Japan,Men,disc07
+Japan,Japan,Women,disc07
+Mexico,Mexico,Men,disc07
+Netherlands,Netherlands,Women,disc07
+New Zealand,New Zealand,Men,disc07
+New Zealand,New Zealand,Women,disc07
+Republic of Korea,Republic of Korea,Men,disc07
+Romania,Romania,Men,disc07
+Saudi Arabia,Saudi Arabia,Men,disc07
+South Africa,South Africa,Men,disc07
+Spain,Spain,Men,disc07
+Sweden,Sweden,Women,disc07
+United States,United States of America,Women,disc07
+Zambia,Zambia,Women,disc07
+Angola,Angola,Women,disc010
+Argentina,Argentina,Men,disc010
+Bahrain,Bahrain,Men,disc010
+Brazil,Brazil,Men,disc010
+Brazil,Brazil,Women,disc010
+Denmark,Denmark,Men,disc010
+Egypt,Egypt,Men,disc010
+France,France,Men,disc010
+France,France,Women,disc010
+Germany,Germany,Men,disc010
+Hungary,Hungary,Women,disc010
+Japan,Japan,Men,disc010
+Japan,Japan,Women,disc010
+Montenegro,Montenegro,Women,disc010
+Netherlands,Netherlands,Women,disc010
+Norway,Norway,Men,disc010
+Norway,Norway,Women,disc010
+Portugal,Portugal,Men,disc010
+Republic of Korea,Republic of Korea,Women,disc010
+ROC,ROC,Women,disc010
+Spain,Spain,Men,disc010
+Spain,Spain,Women,disc010
+Sweden,Sweden,Men,disc010
+Sweden,Sweden,Women,disc010
+Argentina,Argentina,Men,disc00
+Argentina,Argentina,Women,disc00
+Australia,Australia,Men,disc00
+Australia,Australia,Women,disc00
+Belgium,Belgium,Men,disc00
+Canada,Canada,Men,disc00
+China,People's Republic of China,Women,disc00
+Germany,Germany,Men,disc00
+Germany,Germany,Women,disc00
+Great Britain,Great Britain,Men,disc00
+Great Britain,Great Britain,Women,disc00
+India,India,Men,disc00
+India,India,Women,disc00
+Ireland,Ireland,Women,disc00
+Japan,Japan,Men,disc00
+Japan,Japan,Women,disc00
+Netherlands,Netherlands,Men,disc00
+Netherlands,Netherlands,Women,disc00
+New Zealand,New Zealand,Men,disc00
+New Zealand,New Zealand,Women,disc00
+South Africa,South Africa,Men,disc00
+South Africa,South Africa,Women,disc00
+Spain,Spain,Men,disc00
+Spain,Spain,Women,disc00
+Australia,Australia,Group All-Around,disc029
+Azerbaijan,Azerbaijan,Group All-Around,disc029
+Belarus,Belarus,Group All-Around,disc029
+Brazil,Brazil,Group All-Around,disc029
+Bulgaria,Bulgaria,Group All-Around,disc029
+China,People's Republic of China,Group All-Around,disc029
+Egypt,Egypt,Group All-Around,disc029
+Israel,Israel,Group All-Around,disc029
+Italy,Italy,Group All-Around,disc029
+Japan,Japan,Group All-Around,disc029
+ROC,ROC,Group All-Around,disc029
+Ukraine,Ukraine,Group All-Around,disc029
+United States,United States of America,Group All-Around,disc029
+Uzbekistan,Uzbekistan,Group All-Around,disc029
+Argentina,Argentina,Men,disc027
+Australia,Australia,Men,disc027
+Australia,Australia,Women,disc027
+Brazil,Brazil,Women,disc027
+Canada,Canada,Men,disc027
+Canada,Canada,Women,disc027
+China,People's Republic of China,Women,disc027
+Fiji,Fiji,Men,disc027
+Fiji,Fiji,Women,disc027
+France,France,Women,disc027
+Great Britain,Great Britain,Men,disc027
+Great Britain,Great Britain,Women,disc027
+Ireland,Ireland,Men,disc027
+Japan,Japan,Men,disc027
+Japan,Japan,Women,disc027
+Kenya,Kenya,Men,disc027
+Kenya,Kenya,Women,disc027
+New Zealand,New Zealand,Men,disc027
+New Zealand,New Zealand,Women,disc027
+Republic of Korea,Republic of Korea,Men,disc027
+ROC,ROC,Women,disc027
+South Africa,South Africa,Men,disc027
+United States,United States of America,Men,disc027
+United States,United States of America,Women,disc027
+Australia,Australia,Men's 4 x 100m Freestyle Relay,disc022
+Australia,Australia,Men's 4 x 100m Medley Relay,disc022
+Australia,Australia,Men's 4 x 200m Freestyle Relay,disc022
+Australia,Australia,Mixed 4 x 100m Medley Relay,disc022
+Australia,Australia,Women's 4 x 100m Freestyle Relay,disc022
+Australia,Australia,Women's 4 x 100m Medley Relay,disc022
+Australia,Australia,Women's 4 x 200m Freestyle Relay,disc022
+Belarus,Belarus,Men's 4 x 100m Medley Relay,disc022
+Belarus,Belarus,Mixed 4 x 100m Medley Relay,disc022
+Belarus,Belarus,Women's 4 x 100m Medley Relay,disc022
+Brazil,Brazil,Men's 4 x 100m Freestyle Relay,disc022
+Brazil,Brazil,Men's 4 x 100m Medley Relay,disc022
+Brazil,Brazil,Men's 4 x 200m Freestyle Relay,disc022
+Brazil,Brazil,Mixed 4 x 100m Medley Relay,disc022
+Brazil,Brazil,Women's 4 x 100m Freestyle Relay,disc022
+Brazil,Brazil,Women's 4 x 200m Freestyle Relay,disc022
+Canada,Canada,Men's 4 x 100m Freestyle Relay,disc022
+Canada,Canada,Men's 4 x 100m Medley Relay,disc022
+Canada,Canada,Mixed 4 x 100m Medley Relay,disc022
+Canada,Canada,Women's 4 x 100m Freestyle Relay,disc022
+Canada,Canada,Women's 4 x 100m Medley Relay,disc022
+Canada,Canada,Women's 4 x 200m Freestyle Relay,disc022
+China,People's Republic of China,Men's 4 x 100m Medley Relay,disc022
+China,People's Republic of China,Men's 4 x 200m Freestyle Relay,disc022
+China,People's Republic of China,Mixed 4 x 100m Medley Relay,disc022
+China,People's Republic of China,Women's 4 x 100m Freestyle Relay,disc022
+China,People's Republic of China,Women's 4 x 100m Medley Relay,disc022
+China,People's Republic of China,Women's 4 x 200m Freestyle Relay,disc022
+Czech Republic,Czech Republic,Women's 4 x 100m Freestyle Relay,disc022
+Denmark,Denmark,Women's 4 x 100m Freestyle Relay,disc022
+Denmark,Denmark,Women's 4 x 100m Medley Relay,disc022
+France,France,Men's 4 x 100m Freestyle Relay,disc022
+France,France,Men's 4 x 100m Medley Relay,disc022
+France,France,Men's 4 x 200m Freestyle Relay,disc022
+France,France,Women's 4 x 100m Freestyle Relay,disc022
+France,France,Women's 4 x 200m Freestyle Relay,disc022
+Germany,Germany,Men's 4 x 100m Freestyle Relay,disc022
+Germany,Germany,Men's 4 x 100m Medley Relay,disc022
+Germany,Germany,Men's 4 x 200m Freestyle Relay,disc022
+Germany,Germany,Mixed 4 x 100m Medley Relay,disc022
+Germany,Germany,Women's 4 x 100m Freestyle Relay,disc022
+Germany,Germany,Women's 4 x 100m Medley Relay,disc022
+Germany,Germany,Women's 4 x 200m Freestyle Relay,disc022
+Great Britain,Great Britain,Men's 4 x 100m Freestyle Relay,disc022
+Great Britain,Great Britain,Men's 4 x 100m Medley Relay,disc022
+Great Britain,Great Britain,Men's 4 x 200m Freestyle Relay,disc022
+Great Britain,Great Britain,Mixed 4 x 100m Medley Relay,disc022
+Great Britain,Great Britain,Women's 4 x 100m Freestyle Relay,disc022
+Great Britain,Great Britain,Women's 4 x 100m Medley Relay,disc022
+Greece,Greece,Men's 4 x 100m Freestyle Relay,disc022
+Greece,Greece,Men's 4 x 100m Medley Relay,disc022
+Greece,Greece,Mixed 4 x 100m Medley Relay,disc022
+"Hong Kong, China","Hong Kong, China",Women's 4 x 100m Freestyle Relay,disc022
+"Hong Kong, China","Hong Kong, China",Women's 4 x 100m Medley Relay,disc022
+"Hong Kong, China","Hong Kong, China",Women's 4 x 200m Freestyle Relay,disc022
+Hungary,Hungary,Men's 4 x 100m Freestyle Relay,disc022
+Hungary,Hungary,Men's 4 x 100m Medley Relay,disc022
+Hungary,Hungary,Men's 4 x 200m Freestyle Relay,disc022
+Hungary,Hungary,Mixed 4 x 100m Medley Relay,disc022
+Hungary,Hungary,Women's 4 x 200m Freestyle Relay,disc022
+Ireland,Ireland,Men's 4 x 200m Freestyle Relay,disc022
+Israel,Israel,Men's 4 x 200m Freestyle Relay,disc022
+Israel,Israel,Mixed 4 x 100m Medley Relay,disc022
+Italy,Italy,Men's 4 x 100m Freestyle Relay,disc022
+Italy,Italy,Men's 4 x 100m Medley Relay,disc022
+Italy,Italy,Men's 4 x 200m Freestyle Relay,disc022
+Italy,Italy,Mixed 4 x 100m Medley Relay,disc022
+Italy,Italy,Women's 4 x 100m Medley Relay,disc022
+Italy,Italy,Women's 4 x 200m Freestyle Relay,disc022
+Japan,Japan,Men's 4 x 100m Freestyle Relay,disc022
+Japan,Japan,Men's 4 x 100m Medley Relay,disc022
+Japan,Japan,Men's 4 x 200m Freestyle Relay,disc022
+Japan,Japan,Mixed 4 x 100m Medley Relay,disc022
+Japan,Japan,Women's 4 x 100m Freestyle Relay,disc022
+Japan,Japan,Women's 4 x 100m Medley Relay,disc022
+Japan,Japan,Women's 4 x 200m Freestyle Relay,disc022
+Lithuania,Lithuania,Men's 4 x 100m Medley Relay,disc022
+Netherlands,Netherlands,Men's 4 x 100m Freestyle Relay,disc022
+Netherlands,Netherlands,Mixed 4 x 100m Medley Relay,disc022
+Netherlands,Netherlands,Women's 4 x 100m Freestyle Relay,disc022
+Netherlands,Netherlands,Women's 4 x 100m Medley Relay,disc022
+New Zealand,New Zealand,Women's 4 x 200m Freestyle Relay,disc022
+Poland,Poland,Men's 4 x 100m Freestyle Relay,disc022
+Poland,Poland,Men's 4 x 100m Medley Relay,disc022
+Poland,Poland,Men's 4 x 200m Freestyle Relay,disc022
+Poland,Poland,Mixed 4 x 100m Medley Relay,disc022
+Poland,Poland,Women's 4 x 100m Freestyle Relay,disc022
+Poland,Poland,Women's 4 x 200m Freestyle Relay,disc022
+Republic of Korea,Republic of Korea,Men's 4 x 200m Freestyle Relay,disc022
+Republic of Korea,Republic of Korea,Women's 4 x 200m Freestyle Relay,disc022
+ROC,ROC,Men's 4 x 100m Freestyle Relay,disc022
+ROC,ROC,Men's 4 x 100m Medley Relay,disc022
+ROC,ROC,Men's 4 x 200m Freestyle Relay,disc022
+ROC,ROC,Mixed 4 x 100m Medley Relay,disc022
+ROC,ROC,Women's 4 x 100m Freestyle Relay,disc022
+ROC,ROC,Women's 4 x 100m Medley Relay,disc022
+ROC,ROC,Women's 4 x 200m Freestyle Relay,disc022
+Serbia,Serbia,Men's 4 x 100m Freestyle Relay,disc022
+South Africa,South Africa,Women's 4 x 100m Medley Relay,disc022
+South Africa,South Africa,Women's 4 x 200m Freestyle Relay,disc022
+Spain,Spain,Women's 4 x 100m Medley Relay,disc022
+Sweden,Sweden,Women's 4 x 100m Freestyle Relay,disc022
+Sweden,Sweden,Women's 4 x 100m Medley Relay,disc022
+Switzerland,Switzerland,Men's 4 x 100m Freestyle Relay,disc022
+Switzerland,Switzerland,Men's 4 x 200m Freestyle Relay,disc022
+Turkey,Turkey,Women's 4 x 200m Freestyle Relay,disc022
+United States,United States of America,Men's 4 x 100m Freestyle Relay,disc022
+United States,United States of America,Men's 4 x 100m Medley Relay,disc022
+United States,United States of America,Men's 4 x 200m Freestyle Relay,disc022
+United States,United States of America,Mixed 4 x 100m Medley Relay,disc022
+United States,United States of America,Women's 4 x 100m Freestyle Relay,disc022
+United States,United States of America,Women's 4 x 100m Medley Relay,disc022
+United States,United States of America,Women's 4 x 200m Freestyle Relay,disc022
+Australia,Australia,Men's Team,disc016
+HU Heming / TAPPER Melissa,Australia,Mixed Doubles,disc016
+Australia,Australia,Women's Team,disc016
+FEGERL Stefan / POLCANOVA Sofia,Austria,Mixed Doubles,disc016
+Austria,Austria,Women's Team,disc016
+Brazil,Brazil,Men's Team,disc016
+Brazil,Brazil,Women's Team,disc016
+WANG Zhen / ZHANG Mo,Canada,Mixed Doubles,disc016
+China,People's Republic of China,Men's Team,disc016
+XU Xin / LIU Shiwen,People's Republic of China,Mixed Doubles,disc016
+China,People's Republic of China,Women's Team,disc016
+Chinese Taipei,Chinese Taipei,Men's Team,disc016
+LIN Yun Ju / CHENG I Ching,Chinese Taipei,Mixed Doubles,disc016
+Chinese Taipei,Chinese Taipei,Women's Team,disc016
+Croatia,Croatia,Men's Team,disc016
+CAMPOS Jorge / FONSECA Daniela,Cuba,Mixed Doubles,disc016
+Egypt,Egypt,Men's Team,disc016
+ASSAR Omar / MESHREF Dina,Egypt,Mixed Doubles,disc016
+Egypt,Egypt,Women's Team,disc016
+France,France,Men's Team,disc016
+LEBESSON Emmanuel / YUAN Jia Nan,France,Mixed Doubles,disc016
+France,France,Women's Team,disc016
+Germany,Germany,Men's Team,disc016
+FRANZISKA Patrick / SOLJA Petrissa,Germany,Mixed Doubles,disc016
+Germany,Germany,Women's Team,disc016
+"Hong Kong, China","Hong Kong, China",Men's Team,disc016
+WONG Chun Ting / DOO Hoi Kem,"Hong Kong, China",Mixed Doubles,disc016
+"Hong Kong, China","Hong Kong, China",Women's Team,disc016
+SZUDI Adam / PERGEL Szandra,Hungary,Mixed Doubles,disc016
+Hungary,Hungary,Women's Team,disc016
+ACHANTA Kamal / BATRA Manika,India,Mixed Doubles,disc016
+Japan,Japan,Men's Team,disc016
+MIZUTANI Jun / ITO Mima,Japan,Mixed Doubles,disc016
+Japan,Japan,Women's Team,disc016
+Poland,Poland,Women's Team,disc016
+Portugal,Portugal,Men's Team,disc016
+Republic of Korea,Republic of Korea,Men's Team,disc016
+LEE Sangsu / JEON Jihee,Republic of Korea,Mixed Doubles,disc016
+Republic of Korea,Republic of Korea,Women's Team,disc016
+IONESCU Ovidiu / SZOCS Bernadette,Romania,Mixed Doubles,disc016
+Romania,Romania,Women's Team,disc016
+Serbia,Serbia,Men's Team,disc016
+Singapore,Singapore,Women's Team,disc016
+PISTEJ Lubomir / BALAZOVA Barbora,Slovakia,Mixed Doubles,disc016
+Slovenia,Slovenia,Men's Team,disc016
+Sweden,Sweden,Men's Team,disc016
+United States,United States of America,Men's Team,disc016
+United States,United States of America,Women's Team,disc016
+Australia,Australia,Mixed Relay,disc033
+Austria,Austria,Mixed Relay,disc033
+Belgium,Belgium,Mixed Relay,disc033
+Canada,Canada,Mixed Relay,disc033
+France,France,Mixed Relay,disc033
+Germany,Germany,Mixed Relay,disc033
+Great Britain,Great Britain,Mixed Relay,disc033
+Hungary,Hungary,Mixed Relay,disc033
+Italy,Italy,Mixed Relay,disc033
+Japan,Japan,Mixed Relay,disc033
+Mexico,Mexico,Mixed Relay,disc033
+Netherlands,Netherlands,Mixed Relay,disc033
+New Zealand,New Zealand,Mixed Relay,disc033
+ROC,ROC,Mixed Relay,disc033
+South Africa,South Africa,Mixed Relay,disc033
+Spain,Spain,Mixed Relay,disc033
+Switzerland,Switzerland,Mixed Relay,disc033
+United States,United States of America,Mixed Relay,disc033
+Argentina,Argentina,Men,disc042
+Argentina,Argentina,Women,disc042
+Brazil,Brazil,Men,disc042
+Brazil,Brazil,Women,disc042
+Canada,Canada,Men,disc042
+China,People's Republic of China,Women,disc042
+Dominican Rep.,Dominican Republic,Women,disc042
+France,France,Men,disc042
+Islamic Rep. of Iran,Islamic Republic of Iran,Men,disc042
+Italy,Italy,Men,disc042
+Italy,Italy,Women,disc042
+Japan,Japan,Men,disc042
+Japan,Japan,Women,disc042
+Kenya,Kenya,Women,disc042
+Poland,Poland,Men,disc042
+Republic of Korea,Republic of Korea,Women,disc042
+ROC,ROC,Men,disc042
+ROC,ROC,Women,disc042
+Serbia,Serbia,Women,disc042
+Tunisia,Tunisia,Men,disc042
+Turkey,Turkey,Women,disc042
+United States,United States of America,Men,disc042
+United States,United States of America,Women,disc042
+Venezuela,Venezuela,Men,disc042
+Australia,Australia,Men,disc040
+Australia,Australia,Women,disc040
+Canada,Canada,Women,disc040
+China,People's Republic of China,Women,disc040
+Croatia,Croatia,Men,disc040
+Greece,Greece,Men,disc040
+Hungary,Hungary,Men,disc040
+Hungary,Hungary,Women,disc040
+Italy,Italy,Men,disc040
+Japan,Japan,Men,disc040
+Japan,Japan,Women,disc040
+Kazakhstan,Kazakhstan,Men,disc040
+Montenegro,Montenegro,Men,disc040
+Netherlands,Netherlands,Women,disc040
+ROC,ROC,Women,disc040
+Serbia,Serbia,Men,disc040
+South Africa,South Africa,Men,disc040
+South Africa,South Africa,Women,disc040
+Spain,Spain,Men,disc040
+Spain,Spain,Women,disc040
+United States,United States of America,Men,disc040
+United States,United States of America,Women,disc040
